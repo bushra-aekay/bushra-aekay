@@ -1,5 +1,6 @@
 # 💫 About Me:
-comp sci engg. <br>codes and designs. 
+Full-stack developer and technical founder with hands-on experience building and deploying web applications. <br>
+Specialized in AI integration and automation tools. Currently pursuing Masters in Artificial Intelligence. 
 
 
 # 💻 Tech Stack:
